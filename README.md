@@ -1,3 +1,67 @@
+📌 Project Overview
+        
+        This project is a simple and responsive calendar UI built using React.js. It allows users to:
+
+     1. Navigate between months
+
+     2. Select dates
+
+     3. View event details (static data used)
+
+This assignment was completed as part of the KodNest selection process.
+
+🔧 Tech Stack
+Frontend: React.js, JavaScript, HTML, CSS
+
+Icons: Lucide-react
+
+🚀 Live Demo
+👉 Click here to view the hosted project
+(Replace with your actual hosted link)
+
+🗂️ Features
+Month-to-month navigation
+
+Date selection with highlight
+
+Static event detail display
+
+Responsive and minimal UI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
