@@ -1,6 +1,6 @@
-📌 Project Overview
+#  📌 Project Overview
         
-        This project is a simple and responsive calendar UI built using React.js. It allows users to:
+     This project is a simple and responsive calendar UI built using React.js. It allows users to:
 
      1. Navigate between months
 
@@ -8,50 +8,25 @@
 
      3. View event details (static data used)
 
-This assignment was completed as part of the KodNest selection process.
+     This assignment was completed as part of the KodNest selection process.
 
-🔧 Tech Stack
-Frontend: React.js, JavaScript, HTML, CSS
+# 🔧 Tech Stack
+        Frontend: React.js, JavaScript, HTML, CSS
 
-Icons: Lucide-react
+        Icons: Lucide-react
 
-🚀 Live Demo
-👉 Click here to view the hosted project
-(Replace with your actual hosted link)
+# 🚀 Live Demo
+        👉 https://calendarassignments.netlify.app/
+        
 
-🗂️ Features
-Month-to-month navigation
+# 🗂️ Features
+        1. Month-to-month navigation
 
-Date selection with highlight
+        2. Date selection with highlight
 
-Static event detail display
+        3. Static event detail display
 
-Responsive and minimal UI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        4. Responsive and minimal UI
 
 
 
